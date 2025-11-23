@@ -1,4 +1,4 @@
-# IMPORTANT: please refer to our devpost.
+# IMPORTANT: please refer to our devpost and demo link.
 
 DEMO LINK: https://aurora-frontend-kamannavarsiddh.replit.app/
 
